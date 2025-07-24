@@ -1,5 +1,5 @@
 # F1: 1.0, Startup Success Prediction
-Machine learning project to predict the success of a new startup. Created by Leonardo Cofone
+Machine learning project to predict the success of a new startup. Created by Leonardo Cofone.
 
 Techniques Used:  
 Preprocessing: missing value handling, feature scaling  
